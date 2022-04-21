@@ -1,0 +1,10 @@
+platform :ios, '15.0'
+
+target 'GreetEmployees' do
+  use_frameworks!
+
+  # Pods for GreetEmployees
+
+    pod 'SwiftLint'
+
+end
